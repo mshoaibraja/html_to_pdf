@@ -5,6 +5,7 @@ const PDFDocument = require('pdf-lib').PDFDocument
 const pdf_config = {
     dir_name: "pdf",
     format: "A4",
+
     debug: false // we don't print at all 
 }
 
@@ -42,8 +43,9 @@ fs.readFile("./links.json", { encoding: 'utf-8' }, async (err, data) => {
                 }
 
                 console.log(`processing link = ${link_promise.link}`)
-                await printPDF(browser, link_promise)
-                link_promise.promise.then(pdf => write_pdf_file({ pdf, link: link_promise.link }))
+                //await printPDF(browser, link_promise)
+                await takeScreenshot(browser, link_promise)
+                //link_promise.promise.then(pdf => write_pdf_file({ pdf, link: link_promise.link }))
                 console.log(`${++processed}/${link_promises.length}: processed link = ${link_promise.link}`)
 
 
@@ -56,9 +58,9 @@ fs.readFile("./links.json", { encoding: 'utf-8' }, async (err, data) => {
             await browser.close()
             console.log(`browser closed`)
 
-            console.log(`trying to merge pdf files`)
-            await merge_files()
-            console.log(`files are merged`)
+            // console.log(`trying to merge pdf files`)
+            // await merge_files()
+            // console.log(`files are merged`)
         })
     }
 
@@ -95,6 +97,21 @@ async function printPDF(browser, link_promse) {
 
 }
 
+async function takeScreenshot(browser, link_promse) {
+    const page = await browser.newPage();
+
+    await page.goto(link_promse.link, { waitUntil: 'networkidle0', timeout: 180000 });   
+    await page.setViewport({width: 0, height: 0, deviceScaleFactor:.75}); 
+
+    const screen = await page.screenshot({
+        path: `${link_promse.link.replace(/\W/g, '_')}.jpeg`,
+        fullPage: true
+    })
+
+    await page.close()
+    link_promse.local_resolve(screen)
+}
+
 async function merge_files() {
     const files = fs.readdirSync(pdf_config.dir_name)
     const pdfsToMerge = [];
@@ -102,7 +119,7 @@ async function merge_files() {
         pdfsToMerge.push(fs.readFileSync(`./${pdf_config.dir_name}/${file}`))
     }
 
-        const mergedPdf = await PDFDocument.create();
+    const mergedPdf = await PDFDocument.create();
     for (const pdfBytes of pdfsToMerge) {
         const pdf = await PDFDocument.load(pdfBytes);
         const copiedPages = await mergedPdf.copyPages(pdf, pdf.getPageIndices());

@@ -1,0 +1,764 @@
+{
+    "pdf-lib": [
+        {
+            "url": "https://www.npmjs.com/package/pdf-lib",
+            "options": {
+                "format": "Legal"
+            }
+        },
+        {
+            "url": "https://github.com/Hopding/pdf-lib",
+            "options": {}
+        }
+    ],
+    "python": [
+        {
+            "url": "https://www.fullstackpython.com/",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/table-of-contents.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/blog.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.deploypython.com/full-stack-python.html",
+            "options": {}
+        },
+        {
+            "url": "https://twitter.com/fullstackpython",
+            "options": {}
+        },        
+        {
+            "url": "https://www.fullstackpython.com/change-log.html",
+            "options": {}
+        },
+        {
+            "url": "http://www.python.org/",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/table-of-contents.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/learning-programming.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-development.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/table-of-contents.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-development.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/deployment.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/devops.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/",
+            "options": {}
+        },
+        {
+            "url": "https://github.com/mattmakai/fullstackpython.com",
+            "options": {}
+        },
+        {
+            "url": "https://www.deploypython.com/full-stack-python.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/table-of-contents.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/learning-programming.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/python-programming-language.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/why-use-python.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/python-2-or-3.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/enterprise-python.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/python-community.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/companies-using-python.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/best-python-resources.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/best-python-videos.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/best-python-podcasts.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/development-environments.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/text-editors-ides.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/vim.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/emacs.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/sublime-text.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/pycharm.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/jupyter-notebook.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/shells.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/bourne-again-shell-bash.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/zsh-shell.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/powershell.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/terminal-multiplexers.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/tmux.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/screen.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/environment-configuration.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/application-dependencies.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/virtual-environments-virtualenvs-venvs.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/localhost-tunnels.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/source-control.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/git.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/mercurial.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/data.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/databases.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/postgresql.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/mysql.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/sqlite.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/object-relational-mappers-orms.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/sqlalchemy.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/peewee.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/django-orm.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/pony-orm.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/no-sql-datastore.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/redis.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/mongodb.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/apache-cassandra.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/neo4j.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/data-analysis.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/pandas.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/scipy-numpy.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/data-visualization.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/bokeh.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/d3-js.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/matplotlib.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/markup-languages.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/markdown.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/restructuredtext.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-development.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-frameworks.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/django.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/flask.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/bottle.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/pyramid.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/turbogears.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/falcon.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/morepath.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/sanic.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/other-web-frameworks.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/template-engines.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/jinja2.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/mako.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/django-templates.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-design.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/hypertext-markup-language-html.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/cascading-style-sheets.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/responsive-design.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/minification.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/css-frameworks.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/bootstrap-css.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/foundation-css.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/javascript.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/react.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/vuejs.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/angular.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/task-queues.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/celery.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/redis-queue-rq.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/dramatiq.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/static-site-generator.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/pelican.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/lektor.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/mkdocs.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/testing.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/unit-testing.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/integration-testing.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/debugging.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/code-metrics.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/networking.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/https.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/websockets.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/webrtc.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/application-programming-interfaces.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/microservices.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/webhooks.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/bots.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/api-creation.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/api-frameworks.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/django-rest-framework-drf.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/api-integration.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/twilio.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/stripe.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/slack.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/okta.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-application-security.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/sql-injection.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/cross-site-request-forgery-csrf.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/deployment.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/hosting.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/servers.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/static-content.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/content-delivery-networks-cdns.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/virtual-private-servers-vps.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/linode.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/digitalocean.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/lightsail.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/platform-as-a-service.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/heroku.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/pythonanywhere.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/aws-codestar.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/operating-systems.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/ubuntu.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/macos.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/freebsd.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/microsoft-windows.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-servers.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/apache-http-server.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/nginx.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/caddy.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/wsgi-servers.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/green-unicorn-gunicorn.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/uwsgi.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/mod-wsgi.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/continuous-integration.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/jenkins.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/gocd-continuous-integration.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/configuration-management.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/ansible.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/salt.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/containers.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/docker.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/kubernetes.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/serverless.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/aws-lambda.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/azure-functions.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/google-cloud-functions.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/devops.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/monitoring.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/datadog.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/prometheus.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/rollbar.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/sentry.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-app-performance.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/logging.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/caching.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/web-analytics.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/change-log.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/about-author.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/what-full-stack-means.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/page-statuses.html",
+            "options": {}
+        },
+        {
+            "url": "https://www.fullstackpython.com/future-directions.html",
+            "options": {}
+        }
+    ]
+}

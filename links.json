@@ -1,764 +1,1114 @@
-{
-    "pdf-lib": [
+{    
+    "http://learningprocessing.com" : [
         {
-            "url": "https://www.npmjs.com/package/pdf-lib",
+            "url": "http://learningprocessing.com/examples/chp01/example-01-01-stroke-fill",
             "options": {
                 "format": "Legal"
             }
         },
         {
-            "url": "https://github.com/Hopding/pdf-lib",
-            "options": {}
-        }
-    ],
-    "python": [
-        {
-            "url": "https://www.fullstackpython.com/",
-            "options": {}
-        },
-        {
-            "url": "https://www.fullstackpython.com/table-of-contents.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp01/example-01-02-noFill",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/blog.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp01/example-01-03-rgbcolor",
+            "options": {
+                "format": "Legal"
+            }
         },
-        {
-            "url": "https://www.deploypython.com/full-stack-python.html",
-            "options": {}
-        },
-        {
-            "url": "https://twitter.com/fullstackpython",
-            "options": {}
-        },        
         {
-            "url": "https://www.fullstackpython.com/change-log.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp01/example-01-04-alpha",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "http://www.python.org/",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp01/example-01-05-zoog",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/table-of-contents.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp02/example-02-01-zoog",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/learning-programming.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-01-setupdraw",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-development.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-02-mouseX-mouseY",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/table-of-contents.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-03-zoog-mouse",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-development.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-04-continuousline",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/deployment.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-05-mouse-key-events",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/devops.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-06-interactive-zoog",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp03/example-03-07-translated-zoog",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://github.com/mattmakai/fullstackpython.com",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-01-declaringvars",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.deploypython.com/full-stack-python.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-02-usingvars",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/table-of-contents.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-03-incrementingvar",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/learning-programming.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-04-manyvars",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/python-programming-language.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-05-systemvars",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/why-use-python.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-06-morevars",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/python-2-or-3.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-07-randompainting",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/enterprise-python.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp04/example-04-08-zoogvars",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/python-community.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/companies-using-python.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-02-conditionals-quadrants",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/best-python-resources.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-03-rollovers",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/best-python-videos.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-04-holdbutton",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/best-python-podcasts.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-05-switchbutton",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/development-environments.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-06-bouncingball",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/text-editors-ides.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-07-bouncingcolor",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/vim.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-08-edgespath",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/emacs.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-09-gravity",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/sublime-text.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp05/example-05-10-bouncingzoog",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/pycharm.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-01-manylines",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/jupyter-notebook.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-02-manylines2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/shells.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-03-whileloop",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/bourne-again-shell-bash.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-04-infiniteloop",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/zsh-shell.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-05-infiniteloop2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/powershell.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-06-forloop",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/terminal-multiplexers.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-07-localvar",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/tmux.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-08-drawisaloop",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/screen.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-09-loop-mouse",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/environment-configuration.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-10-zoog-loop-arms",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/application-dependencies.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp06/example-06-11-many-zoogs",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/virtual-environments-virtualenvs-venvs.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp07/example-07-01-function-definition",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/localhost-tunnels.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp07/example-07-02-calling-function",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/source-control.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp07/example-07-03-modularity",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/git.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp07/example-07-04-returntype",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/mercurial.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp07/example-07-05-zoog-functions",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/data.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp08/example-08-01-singleobject",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/databases.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp08/example-08-02-twoobjects",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/postgresql.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp08/example-08-03-zoogobject",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/mysql.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-01-array-declare",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/sqlite.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-02-array-initialize",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/object-relational-mappers-orms.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-03-array-initialize2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/sqlalchemy.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-04-array-initialize-while",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/peewee.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-05-array-initialize-for",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/django-orm.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-06-array-operation",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/pony-orm.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-07-dot-length",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/no-sql-datastore.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-08-mouse-history",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/redis.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-09-array-objects",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/mongodb.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-10-array-interactive-objects",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/apache-cassandra.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-11-array-append",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/neo4j.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp09/example-09-12-array-zoog",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/data-analysis.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-01-catcher",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/pandas.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-02-bouncing-balls",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/scipy-numpy.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-03-intersection",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/data-visualization.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-04-timer",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/bokeh.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-05-OOP-Timer",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/d3-js.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-06-raindrop-behavior",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/matplotlib.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-07-many-drops",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/markup-languages.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-08-drop-design",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/markdown.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-09-all-together",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/restructuredtext.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp10/example-10-10-rain-catcher-game",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-development.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-01-modulo",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-frameworks.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-02-random-distribution",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/django.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-03-probability",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/flask.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-04-noise",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/bottle.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-05-map",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/pyramid.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-05-polar-cartesian",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/turbogears.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-06-oscillation",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/falcon.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-07-wave",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/morepath.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-08-recursion",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/sanic.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-09-2darray",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/other-web-frameworks.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp13/example-13-10-grid-cells",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/template-engines.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-01-growing-rect",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/jinja2.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-02-multiple-translation",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/mako.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-03-rect-z-translate",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/django-templates.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-04-pyramid",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-design.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-05-rotate-rectangle-center",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/hypertext-markup-language-html.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-06-rotateZ",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/cascading-style-sheets.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-07-rotateX",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/responsive-design.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-08-rotateY",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/minification.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-09-rotation-multiple-axes",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/css-frameworks.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-10-rotating-pyramids",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/bootstrap-css.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-11-scale",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/foundation-css.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-12-rotate-rect1",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/javascript.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-13-rotate-rect2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/react.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-14-rotate-rect1-rect2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/vuejs.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-15-spinning-objects",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/angular.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-16-solar-system",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/task-queues.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-17-nested-push-pop",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/celery.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-18-solar-system-OOP",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/redis-queue-rq.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp14/example-14-19-PShape",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/dramatiq.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-01-drawimage",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/static-site-generator.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-02-ImageSprite",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/pelican.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-03-ImageArray1",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/lektor.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-04-ImageArray2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/mkdocs.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-05-PixelArray",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/testing.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-06-PixelArray2D",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/unit-testing.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-07-PixelArrayImage",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/integration-testing.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-08-Brightness",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/debugging.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-09-FlashLight",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/code-metrics.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-10-ThresholdDestinationImage",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/networking.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-11-ThresholdFilter",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/https.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-12-PixelNeighborEdge",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/websockets.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-13-Convolution",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/webrtc.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-14-Pointillism",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/application-programming-interfaces.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp15/example-15-15-explode3D",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/microservices.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-01-Capture",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/webhooks.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-02-ManipulateCapture",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/bots.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-03-BrightnessCapture",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/api-creation.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-04-MoviePlayback",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/api-frameworks.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-05-MovieScrub",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/django-rest-framework-drf.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-06-Grid",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/api-integration.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-07-PixelateCaptureGrid",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/twilio.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-08-BrightnessMirror",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/stripe.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-09-Scribbler",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/slack.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-10-ScribblerMirror",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/okta.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-application-security.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-12-BackgroundRemove",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/sql-injection.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-13-MotionPixels",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/cross-site-request-forgery-csrf.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp16/example-16-14-MotionSensor",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/deployment.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-01-displaytext",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/hosting.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-02-textalign",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/servers.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-03-scrollingtext",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/static-content.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-04-textmirror",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/content-delivery-networks-cdns.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-05-rotatetext",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/virtual-private-servers-vps.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-06-textbreakingup",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/linode.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-07-boxesoncurve",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/digitalocean.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp17/example-17-08-textalongcurve",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/lightsail.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-01-userinput",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/platform-as-a-service.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-02-splitcommas",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/heroku.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-03-LoadSaveTable",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/pythonanywhere.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-04-manualparsing",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/aws-codestar.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-05-concordance",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/operating-systems.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-06-XMLYahooWeather",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/ubuntu.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-07-LoadSaveXML",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/macos.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-08-LoadSaveJSON",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/freebsd.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-09-Thread",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/microsoft-windows.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp18/example-18-10-NYTimes-API",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-servers.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-01-simple-server",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/apache-http-server.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-02-simple-client",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/nginx.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-03-broadcasting-server",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/caddy.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-04-client-bgcolor",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/wsgi-servers.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-05-client-rotation",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/green-unicorn-gunicorn.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-06-multiuser-server",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/uwsgi.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-07-multiuser-client",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/mod-wsgi.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-08-serial-input-one-number",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/continuous-integration.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-09-serial-handshaking",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/jenkins.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp19/example-19-10-serial-parsing-string",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/gocd-continuous-integration.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-01-playback",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/configuration-management.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-02-sound-effect",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/ansible.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-03-manipulate-sound",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/salt.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-04-pan",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/containers.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-05-reverb",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/docker.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-06-noise",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/kubernetes.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-06-oscillator-frequency",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/serverless.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-07-envelope",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/aws-lambda.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-08-playback-analysis",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/azure-functions.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-09-mic-input",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/google-cloud-functions.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-10-mic-threshold",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/devops.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-11-mic-double-threshold",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/monitoring.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp20/example-20-12-soundfile-FFT",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/datadog.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp21/example-21-01-basic-PDF",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/prometheus.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp21/example-21-02-begin-end-record-PDF",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/rollbar.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp21/example-21-03-multi-frame-PDF",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/sentry.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp21/example-21-04-3D-PDF",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-app-performance.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp21/example-21-05-saveFrames",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/logging.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp21/example-21-06-saveFrames-2",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/caching.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp22/example-22-01-inheritance",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/web-analytics.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp22/example-22-02-polymorphism",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/change-log.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp23/example-23-01-JavaClass-Random",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/about-author.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp23/example-23-02-ArrayList",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/what-full-stack-means.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp23/example-23-03-Rectangle",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/page-statuses.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp23/example-23-04-ArrayList-Rectangle",
+            "options": {
+                "format": "Legal"
+            }
         },
         {
-            "url": "https://www.fullstackpython.com/future-directions.html",
-            "options": {}
+            "url": "http://learningprocessing.com/examples/chp23/example-23-05-mouse-history-pvector",
+            "options": {
+                "format": "Legal"
+            }
         }
     ]
 }
