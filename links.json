@@ -1,1114 +1,373 @@
-{    
-    "http://learningprocessing.com" : [
-        {
-            "url": "http://learningprocessing.com/examples/chp01/example-01-01-stroke-fill",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp01/example-01-02-noFill",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp01/example-01-03-rgbcolor",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp01/example-01-04-alpha",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp01/example-01-05-zoog",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp02/example-02-01-zoog",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-01-setupdraw",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-02-mouseX-mouseY",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-03-zoog-mouse",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-04-continuousline",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-05-mouse-key-events",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-06-interactive-zoog",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp03/example-03-07-translated-zoog",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-01-declaringvars",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-02-usingvars",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-03-incrementingvar",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-04-manyvars",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-05-systemvars",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-06-morevars",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-07-randompainting",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp04/example-04-08-zoogvars",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-02-conditionals-quadrants",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-03-rollovers",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-04-holdbutton",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-05-switchbutton",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-06-bouncingball",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-07-bouncingcolor",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-08-edgespath",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-09-gravity",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp05/example-05-10-bouncingzoog",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-01-manylines",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-02-manylines2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-03-whileloop",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-04-infiniteloop",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-05-infiniteloop2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-06-forloop",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-07-localvar",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-08-drawisaloop",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-09-loop-mouse",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-10-zoog-loop-arms",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp06/example-06-11-many-zoogs",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp07/example-07-01-function-definition",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp07/example-07-02-calling-function",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp07/example-07-03-modularity",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp07/example-07-04-returntype",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp07/example-07-05-zoog-functions",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp08/example-08-01-singleobject",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp08/example-08-02-twoobjects",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp08/example-08-03-zoogobject",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-01-array-declare",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-02-array-initialize",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-03-array-initialize2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-04-array-initialize-while",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-05-array-initialize-for",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-06-array-operation",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-07-dot-length",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-08-mouse-history",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-09-array-objects",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-10-array-interactive-objects",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-11-array-append",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp09/example-09-12-array-zoog",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-01-catcher",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-02-bouncing-balls",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-03-intersection",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-04-timer",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-05-OOP-Timer",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-06-raindrop-behavior",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-07-many-drops",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-08-drop-design",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-09-all-together",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp10/example-10-10-rain-catcher-game",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-01-modulo",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-02-random-distribution",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-03-probability",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-04-noise",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-05-map",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-05-polar-cartesian",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-06-oscillation",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-07-wave",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-08-recursion",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-09-2darray",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp13/example-13-10-grid-cells",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-01-growing-rect",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-02-multiple-translation",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-03-rect-z-translate",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-04-pyramid",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-05-rotate-rectangle-center",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-06-rotateZ",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-07-rotateX",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-08-rotateY",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-09-rotation-multiple-axes",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-10-rotating-pyramids",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-11-scale",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-12-rotate-rect1",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-13-rotate-rect2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-14-rotate-rect1-rect2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-15-spinning-objects",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-16-solar-system",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-17-nested-push-pop",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-18-solar-system-OOP",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp14/example-14-19-PShape",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-01-drawimage",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-02-ImageSprite",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-03-ImageArray1",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-04-ImageArray2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-05-PixelArray",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-06-PixelArray2D",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-07-PixelArrayImage",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-08-Brightness",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-09-FlashLight",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-10-ThresholdDestinationImage",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-11-ThresholdFilter",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-12-PixelNeighborEdge",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-13-Convolution",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-14-Pointillism",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp15/example-15-15-explode3D",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-01-Capture",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-02-ManipulateCapture",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-03-BrightnessCapture",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-04-MoviePlayback",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-05-MovieScrub",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-06-Grid",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-07-PixelateCaptureGrid",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-08-BrightnessMirror",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-09-Scribbler",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-10-ScribblerMirror",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-12-BackgroundRemove",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-13-MotionPixels",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp16/example-16-14-MotionSensor",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-01-displaytext",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-02-textalign",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-03-scrollingtext",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-04-textmirror",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-05-rotatetext",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-06-textbreakingup",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-07-boxesoncurve",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp17/example-17-08-textalongcurve",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-01-userinput",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-02-splitcommas",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-03-LoadSaveTable",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-04-manualparsing",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-05-concordance",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-06-XMLYahooWeather",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-07-LoadSaveXML",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-08-LoadSaveJSON",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-09-Thread",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp18/example-18-10-NYTimes-API",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-01-simple-server",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-02-simple-client",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-03-broadcasting-server",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-04-client-bgcolor",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-05-client-rotation",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-06-multiuser-server",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-07-multiuser-client",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-08-serial-input-one-number",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-09-serial-handshaking",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp19/example-19-10-serial-parsing-string",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-01-playback",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-02-sound-effect",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-03-manipulate-sound",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-04-pan",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-05-reverb",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-06-noise",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-06-oscillator-frequency",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-07-envelope",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-08-playback-analysis",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-09-mic-input",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-10-mic-threshold",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-11-mic-double-threshold",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp20/example-20-12-soundfile-FFT",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp21/example-21-01-basic-PDF",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp21/example-21-02-begin-end-record-PDF",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp21/example-21-03-multi-frame-PDF",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp21/example-21-04-3D-PDF",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp21/example-21-05-saveFrames",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp21/example-21-06-saveFrames-2",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp22/example-22-01-inheritance",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp22/example-22-02-polymorphism",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp23/example-23-01-JavaClass-Random",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp23/example-23-02-ArrayList",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp23/example-23-03-Rectangle",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp23/example-23-04-ArrayList-Rectangle",
-            "options": {
-                "format": "Legal"
-            }
-        },
-        {
-            "url": "http://learningprocessing.com/examples/chp23/example-23-05-mouse-history-pvector",
-            "options": {
-                "format": "Legal"
-            }
-        }
-    ]
-}
+[
+    {
+        "process": false,
+        "target_directory": "pdf",
+        "page_size": "Legal",
+        "merge_files": false,
+        "merged_file_name": "sample1.pdf",
+        "filter_function": "",
+        "links": [
+            "https://processing.org/reference/",
+            "https://processing.org/reference/arrayaccess.html"
+        ]
+    },
+    {
+        "process": false,
+        "target_directory": "pdf2",
+        "page_size": "Legal",
+        "merge_files": true,
+        "merged_file_name": "sample2.pdf",
+        "filter_function": "remove_extra_parts",
+        "links": [
+            "http://learningprocessing.com/examples/chp01/example-01-01-stroke-fill",
+            "http://learningprocessing.com/examples/chp01/example-01-02-noFill",
+            "http://learningprocessing.com/examples/chp01/example-01-03-rgbcolor",
+            "http://learningprocessing.com/examples/chp01/example-01-04-alpha",
+            "http://learningprocessing.com/examples/chp01/example-01-05-zoog",
+            "http://learningprocessing.com/examples/chp02/example-02-01-zoog",
+            "http://learningprocessing.com/examples/chp03/example-03-01-setupdraw",
+            "http://learningprocessing.com/examples/chp03/example-03-02-mouseX-mouseY",
+            "http://learningprocessing.com/examples/chp03/example-03-03-zoog-mouse",
+            "http://learningprocessing.com/examples/chp03/example-03-04-continuousline",
+            "http://learningprocessing.com/examples/chp03/example-03-05-mouse-key-events",
+            "http://learningprocessing.com/examples/chp03/example-03-06-interactive-zoog",
+            "http://learningprocessing.com/examples/chp03/example-03-07-translated-zoog",
+            "http://learningprocessing.com/examples/chp04/example-04-01-declaringvars",
+            "http://learningprocessing.com/examples/chp04/example-04-02-usingvars",
+            "http://learningprocessing.com/examples/chp04/example-04-03-incrementingvar",
+            "http://learningprocessing.com/examples/chp04/example-04-04-manyvars",
+            "http://learningprocessing.com/examples/chp04/example-04-05-systemvars",
+            "http://learningprocessing.com/examples/chp04/example-04-06-morevars",
+            "http://learningprocessing.com/examples/chp04/example-04-07-randompainting",
+            "http://learningprocessing.com/examples/chp04/example-04-08-zoogvars",
+            "http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors",
+            "http://learningprocessing.com/examples/chp05/example-05-02-conditionals-quadrants",
+            "http://learningprocessing.com/examples/chp05/example-05-03-rollovers",
+            "http://learningprocessing.com/examples/chp05/example-05-04-holdbutton",
+            "http://learningprocessing.com/examples/chp05/example-05-05-switchbutton",
+            "http://learningprocessing.com/examples/chp05/example-05-06-bouncingball",
+            "http://learningprocessing.com/examples/chp05/example-05-07-bouncingcolor",
+            "http://learningprocessing.com/examples/chp05/example-05-08-edgespath",
+            "http://learningprocessing.com/examples/chp05/example-05-09-gravity",
+            "http://learningprocessing.com/examples/chp05/example-05-10-bouncingzoog",
+            "http://learningprocessing.com/examples/chp06/example-06-01-manylines",
+            "http://learningprocessing.com/examples/chp06/example-06-02-manylines2",
+            "http://learningprocessing.com/examples/chp06/example-06-03-whileloop",
+            "http://learningprocessing.com/examples/chp06/example-06-04-infiniteloop",
+            "http://learningprocessing.com/examples/chp06/example-06-05-infiniteloop2",
+            "http://learningprocessing.com/examples/chp06/example-06-06-forloop",
+            "http://learningprocessing.com/examples/chp06/example-06-07-localvar",
+            "http://learningprocessing.com/examples/chp06/example-06-08-drawisaloop",
+            "http://learningprocessing.com/examples/chp06/example-06-09-loop-mouse",
+            "http://learningprocessing.com/examples/chp06/example-06-10-zoog-loop-arms",
+            "http://learningprocessing.com/examples/chp06/example-06-11-many-zoogs",
+            "http://learningprocessing.com/examples/chp07/example-07-01-function-definition",
+            "http://learningprocessing.com/examples/chp07/example-07-02-calling-function",
+            "http://learningprocessing.com/examples/chp07/example-07-03-modularity",
+            "http://learningprocessing.com/examples/chp07/example-07-04-returntype",
+            "http://learningprocessing.com/examples/chp07/example-07-05-zoog-functions",
+            "http://learningprocessing.com/examples/chp08/example-08-01-singleobject",
+            "http://learningprocessing.com/examples/chp08/example-08-02-twoobjects",
+            "http://learningprocessing.com/examples/chp08/example-08-03-zoogobject",
+            "http://learningprocessing.com/examples/chp09/example-09-01-array-declare",
+            "http://learningprocessing.com/examples/chp09/example-09-02-array-initialize",
+            "http://learningprocessing.com/examples/chp09/example-09-03-array-initialize2",
+            "http://learningprocessing.com/examples/chp09/example-09-04-array-initialize-while",
+            "http://learningprocessing.com/examples/chp09/example-09-05-array-initialize-for",
+            "http://learningprocessing.com/examples/chp09/example-09-06-array-operation",
+            "http://learningprocessing.com/examples/chp09/example-09-07-dot-length",
+            "http://learningprocessing.com/examples/chp09/example-09-08-mouse-history",
+            "http://learningprocessing.com/examples/chp09/example-09-09-array-objects",
+            "http://learningprocessing.com/examples/chp09/example-09-10-array-interactive-objects",
+            "http://learningprocessing.com/examples/chp09/example-09-11-array-append",
+            "http://learningprocessing.com/examples/chp09/example-09-12-array-zoog",
+            "http://learningprocessing.com/examples/chp10/example-10-01-catcher",
+            "http://learningprocessing.com/examples/chp10/example-10-02-bouncing-balls",
+            "http://learningprocessing.com/examples/chp10/example-10-03-intersection",
+            "http://learningprocessing.com/examples/chp10/example-10-04-timer",
+            "http://learningprocessing.com/examples/chp10/example-10-05-OOP-Timer",
+            "http://learningprocessing.com/examples/chp10/example-10-06-raindrop-behavior",
+            "http://learningprocessing.com/examples/chp10/example-10-07-many-drops",
+            "http://learningprocessing.com/examples/chp10/example-10-08-drop-design",
+            "http://learningprocessing.com/examples/chp10/example-10-09-all-together",
+            "http://learningprocessing.com/examples/chp10/example-10-10-rain-catcher-game",
+            "http://learningprocessing.com/examples/chp13/example-13-01-modulo",
+            "http://learningprocessing.com/examples/chp13/example-13-02-random-distribution",
+            "http://learningprocessing.com/examples/chp13/example-13-03-probability",
+            "http://learningprocessing.com/examples/chp13/example-13-04-noise",
+            "http://learningprocessing.com/examples/chp13/example-13-05-map",
+            "http://learningprocessing.com/examples/chp13/example-13-05-polar-cartesian",
+            "http://learningprocessing.com/examples/chp13/example-13-06-oscillation",
+            "http://learningprocessing.com/examples/chp13/example-13-07-wave",
+            "http://learningprocessing.com/examples/chp13/example-13-08-recursion",
+            "http://learningprocessing.com/examples/chp13/example-13-09-2darray",
+            "http://learningprocessing.com/examples/chp13/example-13-10-grid-cells",
+            "http://learningprocessing.com/examples/chp14/example-14-01-growing-rect",
+            "http://learningprocessing.com/examples/chp14/example-14-02-multiple-translation",
+            "http://learningprocessing.com/examples/chp14/example-14-03-rect-z-translate",
+            "http://learningprocessing.com/examples/chp14/example-14-04-pyramid",
+            "http://learningprocessing.com/examples/chp14/example-14-05-rotate-rectangle-center",
+            "http://learningprocessing.com/examples/chp14/example-14-06-rotateZ",
+            "http://learningprocessing.com/examples/chp14/example-14-07-rotateX",
+            "http://learningprocessing.com/examples/chp14/example-14-08-rotateY",
+            "http://learningprocessing.com/examples/chp14/example-14-09-rotation-multiple-axes",
+            "http://learningprocessing.com/examples/chp14/example-14-10-rotating-pyramids",
+            "http://learningprocessing.com/examples/chp14/example-14-11-scale",
+            "http://learningprocessing.com/examples/chp14/example-14-12-rotate-rect1",
+            "http://learningprocessing.com/examples/chp14/example-14-13-rotate-rect2",
+            "http://learningprocessing.com/examples/chp14/example-14-14-rotate-rect1-rect2",
+            "http://learningprocessing.com/examples/chp14/example-14-15-spinning-objects",
+            "http://learningprocessing.com/examples/chp14/example-14-16-solar-system",
+            "http://learningprocessing.com/examples/chp14/example-14-17-nested-push-pop",
+            "http://learningprocessing.com/examples/chp14/example-14-18-solar-system-OOP",
+            "http://learningprocessing.com/examples/chp14/example-14-19-PShape",
+            "http://learningprocessing.com/examples/chp15/example-15-01-drawimage",
+            "http://learningprocessing.com/examples/chp15/example-15-02-ImageSprite",
+            "http://learningprocessing.com/examples/chp15/example-15-03-ImageArray1",
+            "http://learningprocessing.com/examples/chp15/example-15-04-ImageArray2",
+            "http://learningprocessing.com/examples/chp15/example-15-05-PixelArray",
+            "http://learningprocessing.com/examples/chp15/example-15-06-PixelArray2D",
+            "http://learningprocessing.com/examples/chp15/example-15-07-PixelArrayImage",
+            "http://learningprocessing.com/examples/chp15/example-15-08-Brightness",
+            "http://learningprocessing.com/examples/chp15/example-15-09-FlashLight",
+            "http://learningprocessing.com/examples/chp15/example-15-10-ThresholdDestinationImage",
+            "http://learningprocessing.com/examples/chp15/example-15-11-ThresholdFilter",
+            "http://learningprocessing.com/examples/chp15/example-15-12-PixelNeighborEdge",
+            "http://learningprocessing.com/examples/chp15/example-15-13-Convolution",
+            "http://learningprocessing.com/examples/chp15/example-15-14-Pointillism",
+            "http://learningprocessing.com/examples/chp15/example-15-15-explode3D",
+            "http://learningprocessing.com/examples/chp16/example-16-01-Capture",
+            "http://learningprocessing.com/examples/chp16/example-16-02-ManipulateCapture",
+            "http://learningprocessing.com/examples/chp16/example-16-03-BrightnessCapture",
+            "http://learningprocessing.com/examples/chp16/example-16-04-MoviePlayback",
+            "http://learningprocessing.com/examples/chp16/example-16-05-MovieScrub",
+            "http://learningprocessing.com/examples/chp16/example-16-06-Grid",
+            "http://learningprocessing.com/examples/chp16/example-16-07-PixelateCaptureGrid",
+            "http://learningprocessing.com/examples/chp16/example-16-08-BrightnessMirror",
+            "http://learningprocessing.com/examples/chp16/example-16-09-Scribbler",
+            "http://learningprocessing.com/examples/chp16/example-16-10-ScribblerMirror",
+            "http://learningprocessing.com/examples/chp16/example-16-11-ColorTrack",
+            "http://learningprocessing.com/examples/chp16/example-16-12-BackgroundRemove",
+            "http://learningprocessing.com/examples/chp16/example-16-13-MotionPixels",
+            "http://learningprocessing.com/examples/chp16/example-16-14-MotionSensor",
+            "http://learningprocessing.com/examples/chp17/example-17-01-displaytext",
+            "http://learningprocessing.com/examples/chp17/example-17-02-textalign",
+            "http://learningprocessing.com/examples/chp17/example-17-03-scrollingtext",
+            "http://learningprocessing.com/examples/chp17/example-17-04-textmirror",
+            "http://learningprocessing.com/examples/chp17/example-17-05-rotatetext",
+            "http://learningprocessing.com/examples/chp17/example-17-06-textbreakingup",
+            "http://learningprocessing.com/examples/chp17/example-17-07-boxesoncurve",
+            "http://learningprocessing.com/examples/chp17/example-17-08-textalongcurve",
+            "http://learningprocessing.com/examples/chp18/example-18-01-userinput",
+            "http://learningprocessing.com/examples/chp18/example-18-02-splitcommas",
+            "http://learningprocessing.com/examples/chp18/example-18-03-LoadSaveTable",
+            "http://learningprocessing.com/examples/chp18/example-18-04-manualparsing",
+            "http://learningprocessing.com/examples/chp18/example-18-05-concordance",
+            "http://learningprocessing.com/examples/chp18/example-18-06-XMLYahooWeather",
+            "http://learningprocessing.com/examples/chp18/example-18-07-LoadSaveXML",
+            "http://learningprocessing.com/examples/chp18/example-18-08-LoadSaveJSON",
+            "http://learningprocessing.com/examples/chp18/example-18-09-Thread",
+            "http://learningprocessing.com/examples/chp18/example-18-10-NYTimes-API",
+            "http://learningprocessing.com/examples/chp19/example-19-01-simple-server",
+            "http://learningprocessing.com/examples/chp19/example-19-02-simple-client",
+            "http://learningprocessing.com/examples/chp19/example-19-03-broadcasting-server",
+            "http://learningprocessing.com/examples/chp19/example-19-04-client-bgcolor",
+            "http://learningprocessing.com/examples/chp19/example-19-05-client-rotation",
+            "http://learningprocessing.com/examples/chp19/example-19-06-multiuser-server",
+            "http://learningprocessing.com/examples/chp19/example-19-07-multiuser-client",
+            "http://learningprocessing.com/examples/chp19/example-19-08-serial-input-one-number",
+            "http://learningprocessing.com/examples/chp19/example-19-09-serial-handshaking",
+            "http://learningprocessing.com/examples/chp19/example-19-10-serial-parsing-string",
+            "http://learningprocessing.com/examples/chp20/example-20-01-playback",
+            "http://learningprocessing.com/examples/chp20/example-20-02-sound-effect",
+            "http://learningprocessing.com/examples/chp20/example-20-03-manipulate-sound",
+            "http://learningprocessing.com/examples/chp20/example-20-04-pan",
+            "http://learningprocessing.com/examples/chp20/example-20-05-reverb",
+            "http://learningprocessing.com/examples/chp20/example-20-06-noise",
+            "http://learningprocessing.com/examples/chp20/example-20-06-oscillator-frequency",
+            "http://learningprocessing.com/examples/chp20/example-20-07-envelope",
+            "http://learningprocessing.com/examples/chp20/example-20-08-playback-analysis",
+            "http://learningprocessing.com/examples/chp20/example-20-09-mic-input",
+            "http://learningprocessing.com/examples/chp20/example-20-10-mic-threshold",
+            "http://learningprocessing.com/examples/chp20/example-20-11-mic-double-threshold",
+            "http://learningprocessing.com/examples/chp20/example-20-12-soundfile-FFT",
+            "http://learningprocessing.com/examples/chp21/example-21-01-basic-PDF",
+            "http://learningprocessing.com/examples/chp21/example-21-02-begin-end-record-PDF",
+            "http://learningprocessing.com/examples/chp21/example-21-03-multi-frame-PDF",
+            "http://learningprocessing.com/examples/chp21/example-21-04-3D-PDF",
+            "http://learningprocessing.com/examples/chp21/example-21-05-saveFrames",
+            "http://learningprocessing.com/examples/chp21/example-21-06-saveFrames-2",
+            "http://learningprocessing.com/examples/chp22/example-22-01-inheritance",
+            "http://learningprocessing.com/examples/chp22/example-22-02-polymorphism",
+            "http://learningprocessing.com/examples/chp23/example-23-01-JavaClass-Random",
+            "http://learningprocessing.com/examples/chp23/example-23-02-ArrayList",
+            "http://learningprocessing.com/examples/chp23/example-23-03-Rectangle",
+            "http://learningprocessing.com/examples/chp23/example-23-04-ArrayList-Rectangle",
+            "http://learningprocessing.com/examples/chp23/example-23-05-mouse-history-pvector"
+        ]
+    },
+    {
+        "process": true,
+        "target_directory": "pdf3",
+        "page_size": "Legal",
+        "merge_files": true,
+        "merged_file_name": "sample3.pdf",
+        "filter_function": "modify_content",
+        "links": [
+            "http://learningprocessing.com/exercises/chp01/exercise-01-01-shapes",
+            "http://learningprocessing.com/exercises/chp01/exercise-01-02-shapes",
+            "http://learningprocessing.com/exercises/chp01/exercise-01-03-shapes",
+            "http://learningprocessing.com/exercises/chp01/exercise-01-04-shapes",
+            "http://learningprocessing.com/exercises/chp01/exercise-01-05-color",
+            "http://learningprocessing.com/exercises/chp01/exercise-01-06-color",
+            "http://learningprocessing.com/exercises/chp01/exercise-01-07-design-creature",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-01-download",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-02-runanexample",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-03-runyourfirstsketch",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-04-runyourfirstsketch",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-05-errors",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-06-errors",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-07-shape-color-functions",
+            "http://learningprocessing.com/exercises/chp02/exercise-02-08-strokeWeight",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-01-flow",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-02-setup-draw",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-03-background-setup",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-04-Zoog-mouse",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-05-mouse-interaction",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-06-pmouseXY",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-07-absolute-value",
+            "http://learningprocessing.com/exercises/chp03/exercise-03-08-background-draw",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-01-variables",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-02-declare-initialize-vars",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-03-variables",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-05-width-height",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-06-zoog-shaking",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-07-variables-random",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-4a-variables",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-4b-variables",
+            "http://learningprocessing.com/exercises/chp04/exercise-04-4c-variables",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-01-grades",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-02-if-elseif-else",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-03-stop-moving",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-04-boolean-exp",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-05-rollover",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-06-fading-rollovers",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-07-button-draw",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-08-boolean-var",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-09-bouncingball",
+            "http://learningprocessing.com/exercises/chp05/exercise-05-10-interaction",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-03-loops",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-04-global-vs-local",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-05-one-line-at-a-time",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-06-stripes-for",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-07-loop",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-08-grid-nested-loop",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-1a-while-lines",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-1b-while-circles",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-2a-for-lines",
+            "http://learningprocessing.com/exercises/chp06/exercise-06-2b-for-circles",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-01-functions",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-02-function-definition",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-03-modularity",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-04-function-call",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-05-function-definition",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-06-bouncing-car",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-07-function-flow",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-08-celsius-converter-function",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-09-multiple-zoogs",
+            "http://learningprocessing.com/exercises/chp07/exercise-07-10-spaceship",
+            "http://learningprocessing.com/exercises/chp08/exercise-08-01-oop",
+            "http://learningprocessing.com/exercises/chp08/exercise-08-02-class-syntax",
+            "http://learningprocessing.com/exercises/chp08/exercise-08-03-object-syntax",
+            "http://learningprocessing.com/exercises/chp08/exercise-08-04-multiple-tabs",
+            "http://learningprocessing.com/exercises/chp08/exercise-08-05-gravity-ball",
+            "http://learningprocessing.com/exercises/chp08/exercise-08-06-multiple-zoogs",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-01-array",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-02-length-indices",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-03-array-declare",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-04-array-declare",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-05-array-objects",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-06-array-operations",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-07-array-snakes",
+            "http://learningprocessing.com/exercises/chp09/exercise-09-08-array-buttons",
+            "http://learningprocessing.com/exercises/chp10/exercise-10-01-your-idea",
+            "http://learningprocessing.com/exercises/chp10/exercise-10-02-break-into-parts",
+            "http://learningprocessing.com/exercises/chp10/exercise-10-03-test-drop",
+            "http://learningprocessing.com/exercises/chp10/exercise-10-04-improved-rain-game",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-02-probability",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-03-noise-motion",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-05-spiral",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-06-oscillating-objects",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-07-breathing",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-08-noise-wave",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-09-recursion",
+            "http://learningprocessing.com/exercises/chp13/exercise-13-10-tictactoe",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-01-translate",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-02-renderers",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-03-vertex-shapes",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-04-pyramid-3sides",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-05-cube",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-06-spinning-baton",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-07-cube-rotate",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-08-pyramid-OOP",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-09-many-pyramids",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-10-solar-system-moons",
+            "http://learningprocessing.com/exercises/chp14/exercise-14-11-solar-system-3D",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-01-image-mouse",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-02-ImageSprite-OOP",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-03-tint",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-04-multiple-image-tints",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-05-image-seq",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-06-pixels",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-07-image-processing",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-08-imgprocessing-rgb",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-09-mouse-threshold",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-10-convolution",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-11-crossfade",
+            "http://learningprocessing.com/exercises/chp15/exercise-15-12-triangles",
+            "http://learningprocessing.com/exercises/chp16/exercise-16-02-pointillist",
+            "http://learningprocessing.com/exercises/chp16/exercise-16-03-movie-speed",
+            "http://learningprocessing.com/exercises/chp16/exercise-16-04-mirror",
+            "http://learningprocessing.com/exercises/chp16/exercise-16-05-snake-tracking",
+            "http://learningprocessing.com/exercises/chp16/exercise-16-06-greenscreen",
+            "http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-01-charAt",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-02-length",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-03-equals",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-04-concatenate",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-05-display-coordinates",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-06-stock-ticker",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-07-text-mirror-fontsize",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-08-text-in-3D",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-09-text-mirror-textWidth",
+            "http://learningprocessing.com/exercises/chp17/exercise-17-10-interpolate-home",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-01-indexOf",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-02-substring",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-03-chat",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-04-splitTokens",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-05-split",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-06-loadStrings",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-07-imdb",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-08-imdb2",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-09-wikipedia",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-10-animated-concordance",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-11-char-counts",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-12-secret-life-pronouns",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-13-bubbles-xml",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-14-particles-xml",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-15-new-bubbles-xml",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-16-json-weather-xml",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-17-loadJSON-weather",
+            "http://learningprocessing.com/exercises/chp18/exercise-18-18-loadJSON-weather-thread",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-01-string-cleanup",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-02-reverse-string-server",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-03-client-x-position",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-04-clientEvent",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-05-whiteboard-color",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-06-pong",
+            "http://learningprocessing.com/exercises/chp19/exercise-19-07-arduino",
+            "http://learningprocessing.com/exercises/chp20/exercise-20-09-mic-FFT",
+            "http://learningprocessing.com/exercises/chp20/exercise-20-10-graphic-equalizer"
+        ]
+    }
+]

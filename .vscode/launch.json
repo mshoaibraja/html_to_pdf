@@ -7,11 +7,20 @@
         {
             "type": "pwa-node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "index",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\index.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "images",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\image_to_pdf.js"
         }
     ]
 }

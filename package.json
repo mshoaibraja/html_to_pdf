@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "images-pdf": "^1.0.3",
     "pdf-lib": "^1.17.1",
+    "pdfkit": "^0.13.0",
     "puppeteer": "^15.4.0"
   }
 }
